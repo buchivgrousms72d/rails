@@ -3,7 +3,7 @@
 Active Support Structured Events
 ================================
 
-Active Support provides a unified API for reporting *structured events* inside your application. Structured events capture named facts about what happened, when it happened, and relevant contextual data. They form the foundation for Rails' observability story and can be exported to any external provider.
+Active Support provides a unified API for reporting *structured events* inside your application. Structured events capture named facts about what happened, when, and from where. They form the foundation for Rails' observability story and can be exported to any external provider.
 
 This guide explains the concepts, design, and usage patterns behind structured events, and how Rails integrates them with framework instrumentation.
 
