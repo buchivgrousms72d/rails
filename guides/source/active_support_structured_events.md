@@ -53,7 +53,7 @@ Structured events fix these problems:
 * predictable payload keys
 * cheap to index in structured stores
 * easy to query
-* compatible with any O11Y backend
+* compatible with any Obeservability backend
 
 They also unify **business events** and **developer observability events** behind a single API.
 
